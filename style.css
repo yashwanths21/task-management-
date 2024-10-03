@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#app {
+    width: 600px;
+    margin: 0 auto;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+button {
+    margin-left: 10px;
+}
